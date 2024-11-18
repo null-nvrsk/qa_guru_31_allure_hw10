@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11053","Тест на чистом Selenide (с Listener)","","Mon Nov 18 07:52:24 GMT 2024","passed","Mon Nov 18 07:52:35 GMT 2024","","guru.qa.tests.GitHubTest","guru.qa.tests.GitHubTest","pureGitHubIssueTest"
+"","6892","Тест с лямбда шагами","","Mon Nov 18 07:52:45 GMT 2024","passed","Mon Nov 18 07:52:52 GMT 2024","","guru.qa.tests.GitHubTest","guru.qa.tests.GitHubTest","lambdaStepsGitHubIssueTest"
+"","9158","Тест с шагами с аннотацией @Step (и Page Object)","","Mon Nov 18 07:52:36 GMT 2024","passed","Mon Nov 18 07:52:45 GMT 2024","","guru.qa.tests.GitHubTest","guru.qa.tests.GitHubTest","annotatedStepTest"
